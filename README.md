@@ -73,3 +73,33 @@ High training and validation accuracy
 Clear digit classification with minimal misclassification
 
 Strong performance without using CNN
+📦 Requirements
+
+Install dependencies:
+
+pip install -r requirements.txt
+▶ How to Run
+
+Clone the repository
+
+Install requirements
+
+Open Jupyter Notebook
+
+Run MLP_Tf.ipynb
+
+🎯 Future Improvements
+
+Add Dropout layers
+
+Add EarlyStopping
+
+Convert to CNN for better performance
+
+Add model saving & loading
+
+Deploy with Streamlit
+
+👨‍💻 Author
+
+Devendra Kushwah
